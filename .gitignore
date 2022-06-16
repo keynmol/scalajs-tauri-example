@@ -1,0 +1,14 @@
+target
+node_modules
+.bloop
+.bsp
+.metals
+dist
+
+main.js 
+main.js.map
+
+src-tauri/target
+project/project 
+project/target
+project/metals.sbt
