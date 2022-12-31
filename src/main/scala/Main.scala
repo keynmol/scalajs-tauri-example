@@ -2,8 +2,6 @@ import com.indoorvivants.tauri.tauriAppsApi.*
 import scalajs.js.Thenable.Implicits.*
 import concurrent.ExecutionContext.Implicits.global
 
-import tauriAppsApiMod as tauri
-import tauriAppsApiMod as tauri
 import org.scalajs.dom
 import org.scalablytyped.runtime.StringDictionary
 
