@@ -1,6 +1,6 @@
 # scalajs-tauri-example
 
-This is a very small of using [Tauri](https://tauri.studio) to develop a desktop application with Scala.js frontend.
+This is a very small of using [Tauri](https://tauri.app/) to develop a desktop application with Scala.js frontend.
 
 1. Uses [Laminar](https://laminar.dev)
 2. Bundling done with [Vite.js](https://vitejs.dev)
